@@ -1,9 +1,11 @@
-import express from "express"
+// import express from "express"
 
-const App =express()
+// const App =express()
 
-App.get("/home",(req,response)=>{
+// App.get("/home",(req,response)=>{
   
-   return  response.send('hello world');
-})
-App.listen(3000)
+//    return  response.send('hello world');
+// })
+// App.listen(3000)
+
+import "./estudos/aula-1-rotas/index"
