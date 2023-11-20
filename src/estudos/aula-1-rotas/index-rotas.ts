@@ -1,3 +1,5 @@
+console.log('rodando aula-1')
+
 import url from 'url'
 import http from "http";
 const porta:number =3000;
